@@ -1,8 +1,0 @@
-{
-  "name": "Star Kids Children Hospital & Child Dental Care",
-  "description": "Welcoming pediatric healthcare and gentle child dental care in Kudasan, Gandhinagar. Helping families build healthy smiles and confident check-ups.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
